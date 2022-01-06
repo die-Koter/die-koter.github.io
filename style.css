@@ -10,3 +10,19 @@ body {
   background-color: #222;
   padding: 20px;
 }
+
+pre,
+code {
+  background-color: #333;
+  font-family: 'JetBrains Mono', monospace;
+}
+
+pre {
+  padding: 20px;
+  border-radius: 10px;
+}
+
+code {
+  padding: 5px;
+  border-radius: 3px;
+}
